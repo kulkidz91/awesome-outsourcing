@@ -54,6 +54,21 @@ only with a project manager.
 ##### New York
 
 - [Harry Moreno](https://harrymoreno.com) - Software Engineer turned Project manager. Experienced translating requirements into tasks for engineers.
+### Caribbean
+
+#### Jamaica
+
+- [Hacker Hostel] (https://hackerhostel.com.jm/) - Hire React/Vue/Flutter Front-end engineers on short term contract.
+
+
+#### Trinidad & Tobago
+
+- [Hacker Hostel] (https://hackerhostel.com.jm/) - Hire React/Vue/Flutter Front-end engineers on short term contract.
+
+
+#### Barbados
+
+- [Hacker Hostel] (https://hackerhostel.com.jm/) - Hire React/Vue/Flutter Front-end engineers on short term contract.
 
 ### South America
 
